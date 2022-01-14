@@ -1,0 +1,19 @@
+.remove {
+  background-image: url("../img/trash.png");
+  background-color:white;
+  border: none;
+  width: 15px;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-size:  contain;
+  cursor: pointer;
+}
+
+.user{
+  display: flex;
+  justify-content: space-between;
+}
+
+.users-container{
+  width: 800px;
+}
